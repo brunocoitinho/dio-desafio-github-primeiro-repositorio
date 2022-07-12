@@ -1,2 +1,5 @@
 # Repositório do Desafio de projeto sobre GIT/GITHUB do Bootcamp da Dio
-Desafio de projeto sobre GIT/GITHUB do Bootcamp da Dio com o Santander
+Repositório criado para o desafio.
+
+## Links úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)
